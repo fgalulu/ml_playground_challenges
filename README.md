@@ -52,7 +52,7 @@ Each challenge directory contains the following subdirectories:
 
 ## Contributors
 
-- [Your Name](https://github.com/fgalulu)
+- [Fiona Alulu](https://github.com/fgalulu)
 
 ## License
 
