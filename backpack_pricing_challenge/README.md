@@ -5,9 +5,8 @@
 ---
 
 ## 📋 Problem Statement
-
-> Briefly describe the task, for example:  
-Predict the **[ price ]** from **[input features]**. The goal is to build a model that performs well on **[ RSME ]** using the provided dataset.
+  
+>Predict the **[ Price ]** from **[input features]**. The goal is to build a model that performs well on **[ RSME ]** using the provided dataset.
 
 ---
 
