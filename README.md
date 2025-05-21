@@ -46,7 +46,7 @@ kaggle-challenges-ml/
 
 Each challenge directory contains the following subdirectories:
 
-- `dataset`: Contains the dataset files required for the challenge.
+- `dataset`: Contains the dataset files required for the challenge. Read the README.md file to know where to download the datasets.
 - `code`: Contains the code, including Jupyter notebooks or Python scripts, used to solve the challenge.
 - `README.md`: Provides information about the challenge, including problem statement, dataset details, approach, and results.
 
