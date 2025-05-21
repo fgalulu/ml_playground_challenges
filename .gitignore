@@ -1,4 +1,4 @@
 venv/
 .venv/
 eda_canvas.ipynb
-*/dataset/*
+*.csv
