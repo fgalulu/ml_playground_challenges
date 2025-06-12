@@ -50,6 +50,9 @@ Each challenge directory contains the following subdirectories:
 - `code`: Contains the code, including Jupyter notebooks or Python scripts, used to solve the challenge.
 - `README.md`: Provides information about the challenge, including problem statement, dataset details, approach, and results.
 
+## Article walkthrough: 
+If you'd like an article walkthrough of my logic and why I made certain decisions, checkout my blog https://neuraldigest.dev/
+
 ## Contributors
 
 - [Fiona Alulu](https://github.com/fgalulu)
