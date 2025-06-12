@@ -2,3 +2,4 @@ venv/
 .venv/
 eda_canvas.ipynb
 *.csv
+catboost_info
